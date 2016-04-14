@@ -91,7 +91,7 @@ Também é possével comprar diretamente de um algum negociador de bitcoin na co
 
 - [BTCBRL Conversor Bitcoin para Real Brasileiro](http://www.btcbrl.info/#/)
 
-## 6. Quem aceita/usa?
+## 7. Quem aceita/usa?
 
 ![Coinmap](/img/coinmap.png "Coinmap")
 
