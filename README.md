@@ -210,7 +210,7 @@ No [coinmarketcap](http://coinmarketcap.com/) é possível ver alguns dados inte
 - [Bitcoin - A Moeda na era Digital](http://www.mises.org.br/Ebook.aspx?id=99)
 - [Mastering Bitcoin em PT-BR](https://www.bitcoinbook.info/translations/pt_BR/book.pdf)
 - [Bitcoin Programming Book](https://gumroad.com/l/Bitcoin-Programming-book)
-- [Bitcoin Big Bang, The - Kelly, Brian](http://shop.oreilly.com/product/0636920037040.do)
+- [Bitcoin Big Bang, The - Kelly, Brian](http://www.amazon.com/Bitcoin-Big-Bang-Alternative-Currencies/dp/1118963660)
 - [Wiley Understanding Bitcoin Cryptography Engineering and Economics](http://www.amazon.com/Understanding-Bitcoin-Cryptography-Engineering-Economics/dp/1119019168)
 - [Blockchain - Blueprint for a New Economy](http://shop.oreilly.com/product/0636920037040.do)
 
