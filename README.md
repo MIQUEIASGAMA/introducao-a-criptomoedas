@@ -6,7 +6,7 @@ O curso se destina a programadores e interessados que querem aprender mais sobre
 
 ## 1. Sobre o Ministrando
 
-Olá sou o Anderson Juhasc e trabalho como Web Developer, minha área expecifica é Front-End Development e nos últimos anos venho estudando e trabalhando em projetos envolvendo criptomoedas.
+Olá sou o Miquéias Gama e nos últimos anos venho estudando e trabalhando em projetos envolvendo criptomoedas.
 
 - [Portfolio](http://andersonjuhasc.com/ "Portfolio")
 - [Github](https://github.com/Anderson-Juhasc "Github")
