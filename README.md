@@ -45,7 +45,7 @@ Bitcoin possibilita o envio de micropagamentos e sua menor unidade é a oitava c
 
 Uma carteira de bitcoin é simplesmente 2 pedaços de texto, sendo uma chave publica e uma chave privada onde a chave publica é utilizada para verificar ou receber saldo e a chave privada é usada para enviar saldo e garantir quem é o dono dos bitcoins no endereço recebido.
 
-[Criar chaves](https://blockchain.info/pt/q/newkey "Criar chaves")
+[Criar chaves](https://login.blockchain.com/#/signup "Criar chaves")
 
 Existem várias formas de utilizar uma carteira de Bitcoin por exemplo via desktop, smartphone, website, hardware e até mesmo em papel.
 
@@ -203,7 +203,9 @@ No [coinmarketcap](http://coinmarketcap.com/) é possível ver alguns dados inte
 - Verificar se existe saldo no endereço explorando o Blockchain
 - Mostrar tela de sucesso
 
-## 15. Referências
+## 15. Proximo introdução vou falar sobre o ETHEREUM e seus tokens
+
+## 16. Referências
 
 **Livros:**
 
