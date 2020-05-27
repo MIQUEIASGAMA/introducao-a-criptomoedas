@@ -8,9 +8,9 @@ O curso se destina a programadores e interessados que querem aprender mais sobre
 
 Olá sou o Miquéias Gama e nos últimos anos venho estudando e trabalhando em projetos envolvendo criptomoedas.
 
-- [Portfolio](http://andersonjuhasc.com/ "Portfolio")
-- [Github](https://github.com/Anderson-Juhasc "Github")
-- [Facebook](https://www.facebook.com/anderson.juhasc)
+- [Portfolio](https://miqueiasgama.negocio.site/ "Portfolio")
+- [Github](https://github.com/MIQUEIASGAMA "Github")
+- [Facebook](https://www.facebook.com/miqueias.gama1)
 
 ## 2. O que é Bitcoin?
 
